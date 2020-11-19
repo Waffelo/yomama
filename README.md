@@ -1,2 +1,5 @@
-# yomama
-Yo mama discord bot
+This bot has been written by Waffelo.
+
+
+
+prefix: "yo mama "
