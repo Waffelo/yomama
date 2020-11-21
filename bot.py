@@ -134,9 +134,7 @@ async def invite(ctx):
 async def _dick(ctx):
     
     dick_meter = [ "10", "9", "8", 
-                  "20", "19", "18", "17", "16", "15", "14", "13", "12", "11",
-                  
-]
+                  "20", "19", "18", "17", "16", "15", "14", "13", "12", "11",]
     
     await ctx.send(f'Your dick is **{random.choice(dick_meter)}cm** big.')
     print('Measured dick')
@@ -163,7 +161,7 @@ async def uwu(ctx):
 async def _swag(ctx):
     
     swag_meter = range(0, 100)
-]
+
     
     await ctx.send(f'Your swag score is **{random.choice(swag_meter)}/100**!')
     print('Measured Swag')
