@@ -1,4 +1,3 @@
-# https://discord.com/api/oauth2/authorize?client_id=778679651835838464&permissions=392256&scope=bot
 import discord
 import random
 from discord.ext import commands
@@ -103,8 +102,8 @@ async def info(ctx):
     
     embed.add_field(name="About", value="This bot is made for entertainment purposes, and it isnt meant to offend or harrass someone. This bot is inspired by yo mama youtube channel.", inline=True)
     embed.set_image(url="https://cdn.discordapp.com/attachments/778661584054255618/778924675396927518/yomama.jpg")
-    embed.add_field(name="My Twitter", value="[click here](https://twitter.com/Waffelo_)", inline=False)
-    embed.add_field(name="Yo mama bot Discord", value="[click here](https://discord.gg/SEzzprFxm9)")
+    embed.add_field(name="My Twitter", value="[click here](LINK)", inline=False)
+    embed.add_field(name="Yo mama bot Discord", value="[click here](LINK)")
     embed.set_footer(text="https://www.youtube.com/user/yomama")
     
 
@@ -120,7 +119,7 @@ async def invite(ctx):
     embed = discord.Embed(
         colour = discord.Colour.orange(),
         title = "Invite me to your server!",
-        description = "[Click me to invite](https://discord.com/api/oauth2/authorize?client_id=778679651835838464&permissions=392256&scope=bot)"
+        description = "[Click me to invite](LINK)"
         )
 
     embed.set_image(url="https://cdn.discordapp.com/attachments/778661584054255618/778924675396927518/yomama.jpg")
