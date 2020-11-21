@@ -133,12 +133,12 @@ async def invite(ctx):
 @client.command(aliases=["cock", "dick"])
 async def _dick(ctx):
     
-    gay_meter = [ "10", "9", "8", 
+    dick_meter = [ "10", "9", "8", 
                   "20", "19", "18", "17", "16", "15", "14", "13", "12", "11",
                   
 ]
     
-    await ctx.send(f'Your dick is **{random.choice(gay_meter)}cm** big.')
+    await ctx.send(f'Your dick is **{random.choice(dick_meter)}cm** big.')
     print('Measured dick')
 
 
