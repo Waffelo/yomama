@@ -6,5 +6,3 @@ prefix: "yo mama "
 
 "yo mama" for help 
 
-server:
-https://discord.gg/SEzzprFxm9
