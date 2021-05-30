@@ -1,6 +1,7 @@
 YOMAMA!
 ---
 Yomama is a fun open-source bot that can do many fun stuff that will entertain your server.
+This is my first coding project so it is pretty messy code.
 
 Prefix is __"yo mama "__
 
