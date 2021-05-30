@@ -1,8 +1,17 @@
-This bot has been written by Waffelo.
+YOMAMA!
+---
+Yomama is a fun open-source bot that can do many fun stuff that will entertain your server.
+
+Prefix is __"yo mama "__
 
 
 
-prefix: "yo mama "
+### Features:
 
-"yo mama" for help 
-
+- 8ball
+- swag meter
+- gayness measurer
+- pp measurer
+- help command
+- randomly generated yo-mama jokes
+- tell yo mama jokes that are baked into the code
